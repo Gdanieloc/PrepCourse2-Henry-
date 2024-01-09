@@ -1,2 +1,1 @@
-# PrepCourse2-Henry-
-repositorio modulo 2 henry 
+Prueva de como guardar un repositorio 
